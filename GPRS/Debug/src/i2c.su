@@ -1,0 +1,2 @@
+i2c.c:13:6:I2C_Config	40	static
+i2c.c:38:6:I2C1_Init	8	static
