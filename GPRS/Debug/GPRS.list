@@ -1,5 +1,5 @@
 
-C:\Users\Propietario\Documents\GitHub\GPRS\Debug\GPRS.elf:     file format elf32-littlearm
+C:\Users\Propietario\Documents\GitHub\GPRS\GPRS\Debug\GPRS.elf:     file format elf32-littlearm
 
 Sections:
 Idx Name          Size      VMA       LMA       File off  Algn
@@ -21,9 +21,9 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   ALLOC
   8 .ARM.attributes 00000028  00000000  00000000  00020008  2**0
                   CONTENTS, READONLY
-  9 .debug_info   0000ef08  00000000  00000000  00020030  2**0
+  9 .debug_info   0000ef0d  00000000  00000000  00020030  2**0
                   CONTENTS, READONLY, DEBUGGING
- 10 .debug_abbrev 00001ec3  00000000  00000000  0002ef38  2**0
+ 10 .debug_abbrev 00001ec3  00000000  00000000  0002ef3d  2**0
                   CONTENTS, READONLY, DEBUGGING
  11 .debug_aranges 000008b0  00000000  00000000  00030e00  2**3
                   CONTENTS, READONLY, DEBUGGING
@@ -31,13 +31,13 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, READONLY, DEBUGGING
  13 .debug_line   000049e0  00000000  00000000  00031e78  2**0
                   CONTENTS, READONLY, DEBUGGING
- 14 .debug_str    00002a26  00000000  00000000  00036858  2**0
+ 14 .debug_str    00002a2b  00000000  00000000  00036858  2**0
                   CONTENTS, READONLY, DEBUGGING
- 15 .comment      0000007c  00000000  00000000  0003927e  2**0
+ 15 .comment      0000007c  00000000  00000000  00039283  2**0
                   CONTENTS, READONLY
- 16 .debug_frame  00001d78  00000000  00000000  000392fc  2**2
+ 16 .debug_frame  00001d78  00000000  00000000  00039300  2**2
                   CONTENTS, READONLY, DEBUGGING
- 17 .stabstr      0000003f  00000000  00000000  0003b074  2**0
+ 17 .stabstr      0000003f  00000000  00000000  0003b078  2**0
                   CONTENTS, READONLY, DEBUGGING
 
 Disassembly of section .text:
